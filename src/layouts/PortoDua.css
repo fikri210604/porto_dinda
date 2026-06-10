@@ -1,0 +1,1301 @@
+/* Desktop - 3 */
+
+position: relative;
+width: 1440px;
+height: 4348px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1444px;
+height: 1327px;
+left: -4px;
+top: 0px;
+
+background: linear-gradient(90deg, #B8D6F0 14.42%, #F0F1F4 48.08%, #E9FF93 78.37%);
+
+
+/* Rectangle 85 */
+
+position: absolute;
+width: 1444px;
+height: 1633px;
+left: 0px;
+top: 1327px;
+
+background: linear-gradient(90deg, #B8D6F0 14.42%, #F0F1F4 48.08%, #E9FF93 78.37%);
+
+
+/* Rectangle 85 */
+
+position: absolute;
+width: 1444px;
+height: 593px;
+left: -1px;
+top: 3788px;
+
+background: linear-gradient(90deg, #B8D6F0 14.63%, #F0F1F4 48.28%, #E9FF93 78.57%);
+
+
+/* Rectangle 86 */
+
+position: absolute;
+width: 1444px;
+height: 828px;
+left: -4px;
+top: 2960px;
+
+background: linear-gradient(90deg, #B8D6F0 14.63%, #F0F1F4 48.28%, #E9FF93 78.57%);
+
+
+/* Frame 70 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 112px;
+
+position: absolute;
+width: 1495px;
+height: 2906px;
+left: -28px;
+top: 0px;
+
+
+
+/* Frame 69 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 45px;
+
+width: 1495px;
+height: 2906px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Rectangle 83 */
+
+width: 1441px;
+height: 791px;
+
+background: url(zzzaasa);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 68 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 112px;
+
+width: 1440px;
+height: 1363px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 67 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 26px;
+
+width: 1440px;
+height: 942px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 62 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 555px;
+
+width: 1221px;
+height: 537px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* The Playbook Library is a mini library and children's literacy park designed to foster a love for reading and learning within a residential neighborhood. The building features a distinctive façade inspired by stacked books, while the vibrant combination of red, yellow, blue, and white creates a playful and welcoming atmosphere for children. */
+
+width: 573px;
+height: 508px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 37px;
+text-align: justify;
+letter-spacing: 0.1em;
+
+color: #0B202E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 84 */
+
+width: 648px;
+height: 537px;
+
+background: url(akso uas);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 61 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 70px 0px 109px;
+
+width: 1440px;
+height: 379px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Rectangle 89 */
+
+width: 665px;
+height: 453px;
+
+background: url(denah uas 1);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 87 */
+
+width: 591px;
+height: 453px;
+
+background: url(denha uas 2);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 63 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px 115px 0px 105px;
+gap: 149px;
+
+width: 1440px;
+height: 309px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Rectangle 88 */
+
+width: 536px;
+height: 309px;
+
+background: url(uas spa 3_page-0001);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Designed as a space where education and recreation coexist, the library incorporates interactive elements that encourage exploration and engagement. A signature slide connecting the second floor to the ground floor adds a fun experience, transforming the journey through the building into an enjoyable part of learning and discovery. */
+
+width: 535px;
+height: 299px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 31px;
+text-align: justify;
+letter-spacing: 0.1em;
+
+color: #0B202E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 66 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 48px;
+
+width: 1495px;
+height: 662px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 64 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 1444px;
+height: 199px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 92 */
+
+width: 361px;
+height: 199px;
+
+background: url(samping 1);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 93 */
+
+width: 361px;
+height: 199px;
+
+background: url(samping 22);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 94 */
+
+width: 361px;
+height: 199px;
+
+background: url(sampng 33);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Rectangle 95 */
+
+width: 361px;
+height: 199px;
+
+background: url(smpng 4);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Frame 65 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 1495px;
+height: 415px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Rectangle 91 */
+
+width: 1473px;
+height: 415px;
+
+background: url(pot uass);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1444px;
+height: 517px;
+left: -1px;
+top: 3831px;
+
+
+
+/* Frame 49 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 30px 70px;
+gap: 26px;
+
+position: absolute;
+width: 1444px;
+height: 381px;
+left: -1px;
+top: 3967px;
+
+background: linear-gradient(180deg, rgba(118, 136, 156, 0.5) 0%, #292F36 100%);
+
+
+/* Frame 44 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 606px;
+height: 122px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 46 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 606px;
+height: 122px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Ready To Collaborate? */
+
+width: 606px;
+height: 61px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 62px;
+letter-spacing: 0.1em;
+
+background: linear-gradient(91.8deg, #102E5C 24.51%, #426735 79.58%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Feel free to contact me */
+
+width: 606px;
+height: 61px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 37px;
+letter-spacing: 0.1em;
+
+color: #364865;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* CTA */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px;
+gap: 10px;
+
+width: 149px;
+height: 63px;
+
+background: linear-gradient(180deg, #C3F109 0%, rgba(78, 118, 44, 0.57) 100%);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 2 */
+
+width: 117px;
+height: 31px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 46 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 117px;
+height: 31px;
+left: 16px;
+top: 16px;
+
+
+
+/* CONTACT ME */
+
+width: 117px;
+height: 31px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 31px;
+/* identical to box height */
+text-align: center;
+
+background: linear-gradient(90deg, #FFFFFF 0%, #E2E2E2 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.7);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 48 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+width: 1304px;
+height: 74.19px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 45 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 1284px;
+height: 54.19px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Line 5 */
+
+width: 1284px;
+height: 0px;
+
+transform: rotate(-0.1deg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 43 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-end;
+padding: 0px;
+gap: 323px;
+
+width: 1284px;
+height: 42px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Created by Adinda Muthia Hanifah */
+
+width: 496px;
+height: 42px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 40px;
+/* or 167% */
+letter-spacing: 0.1em;
+
+color: #C4C4C4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 42 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-end;
+padding: 0px;
+gap: 41px;
+
+width: 478px;
+height: 41px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* LinkedIn */
+
+width: 127px;
+height: 39px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 40px;
+/* or 167% */
+letter-spacing: 0.1em;
+
+color: #C4C4C4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Instagram */
+
+width: 134px;
+height: 41px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 40px;
+/* or 167% */
+letter-spacing: 0.1em;
+
+color: #C4C4C4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Youtube */
+
+width: 135px;
+height: 40px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 40px;
+/* identical to box height, or 167% */
+letter-spacing: 0.1em;
+
+color: #C4C4C4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group 9 */
+
+position: absolute;
+width: 1070px;
+height: 98px;
+left: 186px;
+top: 3831px;
+
+
+
+/* CTA */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px;
+gap: 10px;
+
+position: absolute;
+width: 282px;
+height: 98px;
+left: 580px;
+top: 3831px;
+
+background: linear-gradient(180deg, #0A2035 0%, rgba(78, 118, 44, 0.57) 100%);
+border-radius: 12px;
+
+
+/* Group 2 */
+
+width: 274px;
+height: 88px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 46 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 274px;
+height: 88px;
+left: 4px;
+top: 5px;
+
+
+
+/* NEXT PROJECT */
+
+width: 274px;
+height: 54px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 56px;
+text-align: center;
+
+background: linear-gradient(90deg, #FFFFFF 0%, #E2E2E2 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.7);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Line 8 */
+
+position: absolute;
+width: 394.01px;
+height: 0px;
+left: 862px;
+top: 3880px;
+
+transform: rotate(-0.44deg);
+
+
+/* Line 9 */
+
+position: absolute;
+width: 394.01px;
+height: 0px;
+left: 186px;
+top: 3881px;
+
+transform: rotate(-0.44deg);
+
+
+/* Frame 60 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 38px;
+
+position: absolute;
+width: 499px;
+height: 180px;
+left: 38px;
+top: 161px;
+
+
+
+/* The Playbook Library */
+
+width: 776px;
+height: 64px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 99px;
+letter-spacing: 0.1em;
+
+color: #FFFFFF;
+
+text-shadow: 5px 5px 2px rgba(0, 0, 0, 0.25);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* LIBRARY AND LITERATURE GARDEN */
+
+width: 459px;
+height: 78px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 31px;
+letter-spacing: 0.1em;
+
+color: #DFDFDF;
+
+text-shadow: 5px 5px 2px rgba(0, 0, 0, 0.25);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 3 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 18px 50px;
+gap: 375px;
+
+position: absolute;
+width: 1364px;
+height: 96px;
+left: 38px;
+top: 28px;
+
+background: linear-gradient(90deg, rgba(91, 114, 135, 0.4) 0%, rgba(234, 236, 241, 0.4) 100%);
+backdrop-filter: blur(5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 50px;
+
+
+/* Group 1 */
+
+margin: 0 auto;
+width: 225px;
+height: 80px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* CC 1 */
+
+position: absolute;
+width: 83px;
+height: 80px;
+left: 50px;
+top: 8px;
+
+background: url(CC);
+
+
+/* A’MtHanf */
+
+position: absolute;
+width: 128px;
+height: 48px;
+left: 147px;
+top: 24.5px;
+
+font-family: 'League Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+/* identical to box height */
+text-align: justify;
+letter-spacing: 0.1em;
+
+color: #FFFFFF;
+
+
+
+/* CONTAINER */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+margin: 0 auto;
+width: 628px;
+height: 59px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* NAVLING */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 501px;
+height: 43px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px -22px;
+
+
+/* PROJECT */
+
+width: 137px;
+height: 41px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 31px;
+
+background: linear-gradient(90deg, #FFFFFF 0%, #E9E9E9 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.7);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px -18px;
+
+
+/* SKILLS */
+
+width: 118px;
+height: 43px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 31px;
+
+background: linear-gradient(90deg, #FFFFFF 0%, #E9E9E9 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.7);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px -18px;
+
+
+/* EXPERIENCES */
+
+width: 138px;
+height: 42px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 31px;
+
+background: linear-gradient(90deg, #FFFFFF 0%, #EAEAEA 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.7);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* CTA */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px;
+gap: 10px;
+
+width: 149px;
+height: 63px;
+
+background: linear-gradient(180deg, #C3F109 0%, rgba(78, 118, 44, 0.57) 100%);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* CONTACT ME */
+
+width: 117px;
+height: 31px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 31px;
+/* identical to box height */
+text-align: center;
+
+background: linear-gradient(90deg, #FFFFFF 0%, #E2E2E2 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.7);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 73 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 1448px;
+height: 758px;
+left: -1px;
+top: 3030px;
+
+
+
+/* Frame 71 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 66px;
+
+width: 1448px;
+height: 379px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Rectangle 96 */
+
+width: 691px;
+height: 379px;
+
+background: url(5 (1));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 100 */
+
+width: 691px;
+height: 379px;
+
+background: url(8 (1));
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 72 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 66px;
+
+width: 1448px;
+height: 379px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Rectangle 101 */
+
+width: 691px;
+height: 379px;
+
+background: url(14);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 102 */
+
+width: 691px;
+height: 379px;
+
+background: url(3 (1));
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;

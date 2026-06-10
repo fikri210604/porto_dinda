@@ -1,0 +1,176 @@
+---
+// Layout.astro — Adinda Muthia Hanifah Portfolio
+---
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+
+    <!-- SEO -->
+    <title>Adinda Muthia Hanifah — Architecture & Design Portfolio</title>
+    <meta name="description" content="Portfolio interaktif Adinda Muthia Hanifah, mahasiswa arsitektur Universitas Lampung. Menampilkan proyek arsitektur, desain grafis, dan karya seni." />
+    <meta name="keywords" content="Adinda Muthia Hanifah, arsitektur, portofolio, desain grafis, Universitas Lampung, The Terra, The Playbook Library" />
+    <meta name="author" content="Adinda Muthia Hanifah" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Adinda Muthia Hanifah — Architecture & Design Portfolio" />
+    <meta property="og:description" content="Portfolio arsitektur dan desain grafis interaktif." />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:site_name" content="A'MtHanf Portfolio" />
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=League+Gothic&family=Knewave&display=swap" rel="stylesheet" />
+
+    <style is:global>
+      /* ============================================
+         GLOBAL RESET & DESIGN TOKENS
+      ============================================ */
+      *, *::before, *::after {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      :root {
+        /* Colors */
+        --bg-primary: #FFFFFF;
+        --section-gradient: linear-gradient(90deg, #0C1E2C 0%, #0F2E5A 48.56%, #3A6132 99.52%);
+        --accent-neon: #C3F301;
+        --accent-neon-alt: #B4E00F;
+        --text-gradient-light: linear-gradient(91.8deg, #8D9DAC 24.51%, #F3F4F6 79.58%);
+        --muted-grey: #C4C4C4;
+        --muted-grey-2: #8D9DAC;
+        --deep-dark: #0B202E;
+        --footer-gradient: linear-gradient(180deg, rgba(118, 136, 156, 0.5) 0%, #292F36 100%);
+        --navbar-glass: linear-gradient(90deg, rgba(91, 114, 135, 0.4) 0%, rgba(234, 236, 241, 0.4) 100%);
+
+        /* Typography */
+        --font-display: 'League Gothic', sans-serif;
+        --font-expressive: 'Knewave', cursive;
+        --font-functional: 'Kdam Thmor Pro', sans-serif;
+
+        /* Spacing */
+        --container-max: 1280px;
+        --section-pad-x: clamp(24px, 5vw, 80px);
+        --section-pad-y: clamp(60px, 8vw, 120px);
+      }
+
+      html {
+        scroll-behavior: smooth;
+      }
+
+      body {
+        font-family: var(--font-functional);
+        background-color: var(--bg-primary);
+        color: #fff;
+        overflow-x: hidden;
+        position: relative;
+      }
+
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+
+      img {
+        display: block;
+        max-width: 100%;
+      }
+
+      /* Webkit scrollbar */
+      ::-webkit-scrollbar { width: 6px; }
+      ::-webkit-scrollbar-track { background: #0C1E2C; }
+      ::-webkit-scrollbar-thumb {
+        background: var(--accent-neon);
+        border-radius: 3px;
+      }
+
+      /* Utility classes */
+      .container {
+        width: 100%;
+        max-width: var(--container-max);
+        margin: 0 auto;
+        padding: 0 var(--section-pad-x);
+      }
+
+      .gradient-text-light {
+        background: var(--text-gradient-light);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+      }
+
+      .neon-text {
+        color: var(--accent-neon);
+      }
+
+      /* Global keyframes */
+      @keyframes fadeInUp {
+        from { opacity: 0; transform: translateY(30px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+
+      @keyframes fadeInLeft {
+        from { opacity: 0; transform: translateX(-40px); }
+        to   { opacity: 1; transform: translateX(0); }
+      }
+
+      @keyframes fadeInRight {
+        from { opacity: 0; transform: translateX(40px); }
+        to   { opacity: 1; transform: translateX(0); }
+      }
+
+      @keyframes marquee-left {
+        from { transform: translateX(0%); }
+        to   { transform: translateX(-50%); }
+      }
+
+      @keyframes marquee-right {
+        from { transform: translateX(-50%); }
+        to   { transform: translateX(0%); }
+      }
+
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50%       { transform: translateY(-12px); }
+      }
+
+      @keyframes pulse-neon {
+        0%, 100% { box-shadow: 0 0 10px rgba(195, 243, 1, 0.4); }
+        50%       { box-shadow: 0 0 25px rgba(195, 243, 1, 0.8); }
+      }
+
+      @keyframes scaleIn {
+        from { opacity: 0; transform: scale(0.8); }
+        to   { opacity: 1; transform: scale(1); }
+      }
+
+      @keyframes lineExpand {
+        from { width: 0%; }
+        to   { width: 100%; }
+      }
+
+      /* Section background strip utility */
+      .section-dark {
+        background: var(--section-gradient);
+        position: relative;
+        overflow: hidden;
+      }
+
+      .section-light {
+        background: #FFFFFF;
+        position: relative;
+      }
+    </style>
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>

@@ -1,0 +1,1301 @@
+/* Desktop - 2 */
+
+position: relative;
+width: 1440px;
+height: 4348px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1444px;
+height: 1327px;
+left: -4px;
+top: 0px;
+
+background: linear-gradient(90deg, #B8D6F0 14.42%, #F0F1F4 48.08%, #E9FF93 78.37%);
+
+
+/* Rectangle 85 */
+
+position: absolute;
+width: 1444px;
+height: 1633px;
+left: 0px;
+top: 1327px;
+
+background: linear-gradient(90deg, #B8D6F0 14.42%, #F0F1F4 48.08%, #E9FF93 78.37%);
+
+
+/* Rectangle 85 */
+
+position: absolute;
+width: 1444px;
+height: 593px;
+left: -1px;
+top: 3788px;
+
+background: linear-gradient(90deg, #B8D6F0 14.63%, #F0F1F4 48.28%, #E9FF93 78.57%);
+
+
+/* Rectangle 86 */
+
+position: absolute;
+width: 1444px;
+height: 828px;
+left: -4px;
+top: 2960px;
+
+background: linear-gradient(90deg, #B8D6F0 14.63%, #F0F1F4 48.28%, #E9FF93 78.57%);
+
+
+/* Frame 70 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 112px;
+
+position: absolute;
+width: 1495px;
+height: 2969px;
+left: -28px;
+top: 0px;
+
+
+
+/* Frame 69 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 48px;
+
+width: 1495px;
+height: 2969px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Rectangle 83 */
+
+width: 1441px;
+height: 791px;
+
+background: url(kk);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 68 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 112px;
+
+width: 1440px;
+height: 1420px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 67 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+width: 1440px;
+height: 960px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 62 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 19px;
+
+width: 1221px;
+height: 581px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* The Terra is a two-story gym and healthy café situated within an educational area, serving as a hub for wellness, fitness, and social interaction. Inspired by the modern industrial style, the design incorporates exposed brick walls, exposed concrete surfaces, and extensive landscape elements. The integration of natural greenery softens the industrial aesthetic, creating a balanced atmosphere that is both contemporary and welcoming for students and the surrounding community. */
+
+width: 653px;
+height: 498px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 37px;
+text-align: justify;
+letter-spacing: 0.1em;
+
+color: #0B202E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 84 */
+
+width: 560px;
+height: 581px;
+
+background: url(xxxx);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 61 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 70px 0px 106px;
+
+width: 1440px;
+height: 379px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Rectangle 89 */
+
+width: 667px;
+height: 533px;
+
+background: url(lklkk);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px -34px;
+
+
+/* Rectangle 87 */
+
+width: 643px;
+height: 533px;
+
+background: url(fdsgsd);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 63 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px 115px 0px 105px;
+gap: 149px;
+
+width: 1440px;
+height: 348px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Rectangle 88 */
+
+width: 550px;
+height: 348px;
+
+background: url(xaxasdas);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* The Terra is a climate-responsive gym and healthy café that promotes well-being through integrated fitness, wellness, and social spaces. A modern industrial palette, central void, and skylight enhance spatial quality and natural illumination. */
+
+width: 531px;
+height: 340px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 37px;
+text-align: justify;
+letter-spacing: 0.1em;
+
+color: #0B202E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 66 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 48px;
+
+width: 1495px;
+height: 662px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 64 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 1444px;
+height: 199px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 92 */
+
+width: 361px;
+height: 199px;
+
+background: url(kanan 1);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 93 */
+
+width: 361px;
+height: 199px;
+
+background: url(depan 2);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 94 */
+
+width: 361px;
+height: 199px;
+
+background: url(kiri 1);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Rectangle 95 */
+
+width: 361px;
+height: 199px;
+
+background: url(belakang 2);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Frame 65 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 1495px;
+height: 415px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Rectangle 90 */
+
+width: 1477px;
+height: 415px;
+
+background: url(TPK POTONGAN OKK.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 60 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 17px;
+
+position: absolute;
+width: 499px;
+height: 159px;
+left: 38px;
+top: 407px;
+
+
+
+/* The TERRA */
+
+width: 499px;
+height: 64px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 99px;
+letter-spacing: 0.1em;
+
+color: #FFFFFF;
+
+text-shadow: 5px 5px 1px rgba(255, 255, 255, 0.25);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* GYM & HEALTHY CAFE */
+
+width: 252px;
+height: 78px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 31px;
+letter-spacing: 0.1em;
+
+color: #FFFFFF;
+
+text-shadow: 5px 5px 2px rgba(0, 0, 0, 0.25);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 3 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 18px 50px;
+gap: 375px;
+
+position: absolute;
+width: 1364px;
+height: 96px;
+left: 38px;
+top: 28px;
+
+background: linear-gradient(90deg, rgba(91, 114, 135, 0.4) 0%, rgba(234, 236, 241, 0.4) 100%);
+backdrop-filter: blur(5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 50px;
+
+
+/* Group 1 */
+
+margin: 0 auto;
+width: 225px;
+height: 80px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* CC 1 */
+
+position: absolute;
+width: 83px;
+height: 80px;
+left: 50px;
+top: 8px;
+
+background: url(CC);
+
+
+/* A’MtHanf */
+
+position: absolute;
+width: 128px;
+height: 48px;
+left: 147px;
+top: 24.5px;
+
+font-family: 'League Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+/* identical to box height */
+text-align: justify;
+letter-spacing: 0.1em;
+
+color: #FFFFFF;
+
+
+
+/* CONTAINER */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+margin: 0 auto;
+width: 628px;
+height: 59px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* NAVLING */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 501px;
+height: 43px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px -22px;
+
+
+/* PROJECT */
+
+width: 137px;
+height: 41px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 31px;
+
+background: linear-gradient(90deg, #FFFFFF 0%, #E9E9E9 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.7);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px -18px;
+
+
+/* SKILLS */
+
+width: 118px;
+height: 43px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 31px;
+
+background: linear-gradient(90deg, #FFFFFF 0%, #E9E9E9 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.7);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px -18px;
+
+
+/* EXPERIENCES */
+
+width: 138px;
+height: 42px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 31px;
+
+background: linear-gradient(90deg, #FFFFFF 0%, #EAEAEA 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.7);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* CTA */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px;
+gap: 10px;
+
+width: 149px;
+height: 63px;
+
+background: linear-gradient(180deg, #C3F109 0%, rgba(78, 118, 44, 0.57) 100%);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* CONTACT ME */
+
+width: 117px;
+height: 31px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 31px;
+/* identical to box height */
+text-align: center;
+
+background: linear-gradient(90deg, #FFFFFF 0%, #E2E2E2 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.7);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 73 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 1448px;
+height: 758px;
+left: -1px;
+top: 3030px;
+
+
+
+/* Frame 71 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 66px;
+
+width: 1448px;
+height: 379px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Rectangle 96 */
+
+width: 691px;
+height: 379px;
+
+background: url(7);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 100 */
+
+width: 691px;
+height: 379px;
+
+background: url(8);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 72 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 66px;
+
+width: 1448px;
+height: 379px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Rectangle 101 */
+
+width: 691px;
+height: 379px;
+
+background: url(3);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 102 */
+
+width: 691px;
+height: 379px;
+
+background: url(5);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1444px;
+height: 517px;
+left: -4px;
+top: 3826px;
+
+
+
+/* Frame 49 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 30px 70px;
+gap: 26px;
+
+position: absolute;
+width: 1444px;
+height: 381px;
+left: -4px;
+top: 3962px;
+
+background: linear-gradient(180deg, rgba(118, 136, 156, 0.5) 0%, #292F36 100%);
+
+
+/* Frame 44 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 606px;
+height: 122px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 46 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 606px;
+height: 122px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Ready To Collaborate? */
+
+width: 606px;
+height: 61px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 62px;
+letter-spacing: 0.1em;
+
+background: linear-gradient(91.8deg, #102E5C 24.51%, #426735 79.58%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Feel free to contact me */
+
+width: 606px;
+height: 61px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 37px;
+letter-spacing: 0.1em;
+
+color: #364865;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* CTA */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px;
+gap: 10px;
+
+width: 149px;
+height: 63px;
+
+background: linear-gradient(180deg, #C3F109 0%, rgba(78, 118, 44, 0.57) 100%);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 2 */
+
+width: 117px;
+height: 31px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 46 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 117px;
+height: 31px;
+left: 16px;
+top: 16px;
+
+
+
+/* CONTACT ME */
+
+width: 117px;
+height: 31px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 31px;
+/* identical to box height */
+text-align: center;
+
+background: linear-gradient(90deg, #FFFFFF 0%, #E2E2E2 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.7);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 48 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+width: 1304px;
+height: 74.19px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 45 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 1284px;
+height: 54.19px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Line 5 */
+
+width: 1284px;
+height: 0px;
+
+transform: rotate(-0.1deg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 43 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-end;
+padding: 0px;
+gap: 323px;
+
+width: 1284px;
+height: 42px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Created by Adinda Muthia Hanifah */
+
+width: 496px;
+height: 42px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 40px;
+/* or 167% */
+letter-spacing: 0.1em;
+
+color: #C4C4C4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 42 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-end;
+padding: 0px;
+gap: 41px;
+
+width: 478px;
+height: 41px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* LinkedIn */
+
+width: 127px;
+height: 39px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 40px;
+/* or 167% */
+letter-spacing: 0.1em;
+
+color: #C4C4C4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Instagram */
+
+width: 134px;
+height: 41px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 40px;
+/* or 167% */
+letter-spacing: 0.1em;
+
+color: #C4C4C4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Youtube */
+
+width: 135px;
+height: 40px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 40px;
+/* identical to box height, or 167% */
+letter-spacing: 0.1em;
+
+color: #C4C4C4;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group 9 */
+
+position: absolute;
+width: 1070px;
+height: 98px;
+left: 183px;
+top: 3826px;
+
+
+
+/* CTA */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px;
+gap: 10px;
+
+position: absolute;
+width: 282px;
+height: 98px;
+left: 577px;
+top: 3826px;
+
+background: linear-gradient(180deg, #0A2035 0%, rgba(78, 118, 44, 0.57) 100%);
+border-radius: 12px;
+
+
+/* Group 2 */
+
+width: 274px;
+height: 88px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 46 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 274px;
+height: 88px;
+left: 4px;
+top: 5px;
+
+
+
+/* NEXT PROJECT */
+
+width: 274px;
+height: 54px;
+
+font-family: 'Kdam Thmor Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 56px;
+text-align: center;
+
+background: linear-gradient(90deg, #FFFFFF 0%, #E2E2E2 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.7);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Line 8 */
+
+position: absolute;
+width: 394.01px;
+height: 0px;
+left: 859px;
+top: 3875px;
+
+transform: rotate(-0.44deg);
+
+
+/* Line 9 */
+
+position: absolute;
+width: 394.01px;
+height: 0px;
+left: 183px;
+top: 3876px;
+
+transform: rotate(-0.44deg);
